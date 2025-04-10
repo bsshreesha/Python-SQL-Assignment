@@ -1,3 +1,5 @@
+-- The outputs for each of the queries can be viewed in the SQL Screenshots Folder
+
 -- 1. List the top 5 customers by total purchase amount.
 
 SELECT FirstName || ' ' || LastName AS CustomerName, 
