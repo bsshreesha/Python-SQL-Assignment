@@ -62,3 +62,13 @@ The dataset used is `AB_NYC_2019.csv`, containing NYC Airbnb listings with detai
 - Dataset Source: Inside Airbnb (2019) [link][https://public.tableau.com/app/profile/b.s.shreesha/]
 
 ---
+
+
+## ✅ Task 5: Bonus
+A brief description on how I will clarify student doubts and get back and how I make the class interesting 
+Check the file `SECTION 5.pdf`
+
+---
+## ✅ Task 6: AI Tools & LLMs 
+Prompt engineering was chosen and the report has been enclosed
+Check the file `SECTION 6.pdf`
